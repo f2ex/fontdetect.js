@@ -48,7 +48,7 @@
 
 ## LICENSE
 
-Apache Software License 2.0
+[Apache Software License 2.0](LICENSE)
 
 
 
