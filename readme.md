@@ -42,7 +42,7 @@
 
 它需要脚本被浏览器完全加载后执行。（Opera 在所有的父元素完全加载前，无法计算 offsetWidth 。）
 
-## 声明（重要）
+## 声明
 
 本项目也就是 fontdetect.js 的原作者是 [Lalit Patel](http://www.lalit.org/) 。[原项目主页](http://www.lalit.org/lab/javascript-css-font-detect/) 由于众所周知的原因在国内无法打开，因此由本文作者将其移动到 Github 上供大家方便学习。
 
