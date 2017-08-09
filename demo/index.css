@@ -1,4 +1,12 @@
-body{font-family:-apple-system,"PingFang SC","Hiragino Sans GB","microsoft yahei",sans-serif;font-weight:normal}
+*,
+*:before,
+*:after { box-sizing: inherit;}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+html { box-sizing: border-box;}
+body{font-family:-apple-system,"PingFang SC","Hiragino Sans GB","microsoft yahei",sans-serif;font-weight:normal; margin:0; font-size: 1em;}
 /* All Sizes */
 .ui.container {
   display: block;
