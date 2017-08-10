@@ -44,7 +44,7 @@
 
 ## 声明
 
-本项目也就是 fontdetect.js 的原作者是 [Lalit Patel](http://www.lalit.org/) 。[原项目主页](http://www.lalit.org/lab/javascript-css-font-detect/) 由于众所周知的原因在国内无法打开，因此由本文作者将其移动到 Github 上供大家方便学习。
+本项目也就是 fontdetect.js 的原作者是 [Lalit Patel](http://www.lalit.org/) 。[原项目主页](http://www.lalit.org/lab/javascript-css-font-detect/) 由于众所周知的原因无法正常浏览，因此由本文作者将其移动到 Github 上供大家方便学习。
 
 ## LICENSE
 
