@@ -1,6 +1,6 @@
 ## JavaScript / CSS 字体检测器 
 
-使用 JavaScript 和 CSS 检测用户浏览器中特定字体的可用性。几乎 100％ 准确。 [Demo](https://cooodev.github.io/fontdetect.js/demo/)
+使用 JavaScript 和 CSS 检测用户浏览器中特定字体的可用性。几乎 100％ 准确。
 
 ## 简介
 
